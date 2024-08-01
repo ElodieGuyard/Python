@@ -30,7 +30,7 @@ Utilisation de quelques instructions de base dans tkinter.py :
 
 ## E2_Guess_a_Number
 
-# Fichier Etape_1_Guess_a_Number.py
+### Fichier Etape_1_Guess_a_Number.py
 Consigne : Créer une fonction qui demande un nombre à l’utilisateur à l’aide d’un input. Stocker sa réponse dans une variable de type adéquat nommée `givenNumber`.
 
 - Ligne 5/6 Instanciation de la fenêtre graphique et définition du titre
@@ -39,7 +39,7 @@ Consigne : Créer une fonction qui demande un nombre à l’utilisateur à l’a
 - Line 22 instanciation de l'input dans la fenêtre `window`, textvariable est définit par la fonction `setupTextVarEntree` ligne 13
 - Ligne 24 : Instanciation du bouton "valider" qui, lors d'un clic, executera la fonction `getInput`
 
-# Fichier Etape_2_Guess_a_Number.py
+### Fichier Etape_2_Guess_a_Number.py
 
 Clarification de l'entrée `entry` :
 à partir de la ligne 39
